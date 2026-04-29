@@ -1,111 +1,90 @@
-<h1 align="center">👋 Hi, I'm Shivam Kumar Dubey</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Shivam Kumar Dubey</h1>
 
-<h3 align="center">Full-Stack MERN Developer | Frontend Developer | Problem Solver</h3>
+<h3 align="center">
+  🚀 Passionate <strong>MERN Stack Developer</strong> | <strong>Computer Science Student</strong> from <strong>India</strong>
+</h3>
 
----
+<p align="center">
+  <em>
+    A dedicated Computer Science student and aspiring Full-Stack Developer with a strong interest in MERN stack development. I enjoy building user-friendly, responsive, and scalable web applications. I am passionate about coding, continuous learning, and solving real-world problems through technology.
+  </em>
+</p>
 
-## 🚀 About Me
-<p>
-I am a passionate and motivated Full-Stack Web Developer skilled in building modern, responsive, and user-friendly web applications.
-I enjoy turning ideas into real-world projects using clean and efficient code. I am continuously learning and improving my skills in web development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder GIF" height="300" width="500" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Skills -->
+<h3>🛠️ Languages and Tools</h3>
 
-### Frontend
+**Programming Languages:**
 <p>
-HTML5 | CSS3 | JavaScript | React.js | Bootstrap | Tailwind CSS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />
 </p>
 
-### Backend
+**Frontend:**
 <p>
-Node.js | Express.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
 </p>
 
-### Database
+**Backend:**
 <p>
-MongoDB | MySQL | DBMS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" height="40" />
 </p>
 
-### Programming Languages
+**Databases:**
 <p>
-C | C++ | Core Java | JavaScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
 </p>
 
-### Tools
+**Tools:**
 <p>
-Git | GitHub | VS Code
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40" />
 </p>
 
 ---
 
-## 💼 Experience
-
-### 🏢 Python Developer Intern
-<b>Briztech Infosystem, Ranchi</b> | Jan 2024 – Feb 2024
-
+<!-- Ask me -->
+<h3>💬 Ask me about:</h3>
 <ul>
-  <li>Developed stock price prediction system using Python</li>
-  <li>Created data visualization using graphs and charts</li>
-  <li>Worked with MySQL database integration</li>
-  <li>Improved UI for better user experience</li>
+  <li>MERN Stack Development</li>
+  <li>React.js Applications</li>
+  <li>Node.js & Express APIs</li>
+  <li>MongoDB Database</li>
+  <li>Full Stack Projects</li>
 </ul>
 
 ---
 
-## 🚀 Projects
-
-### 🍔 QuickMeal.com | Full Stack Food Ordering Website (2025)
+<!-- Contact -->
+<h3>📫 How to reach me:</h3>
 <ul>
-  <li>Built a full-stack food ordering web application</li>
-  <li>Implemented Login/Signup authentication system</li>
-  <li>Added food search functionality</li>
-  <li>Designed responsive UI/UX</li>
-</ul>
-
-### 🎮 Other Projects
-<ul>
-  <li>Spotify UI Clone</li>
-  <li>Tic Tac Toe Game (JavaScript)</li>
-  <li>Movie Website</li>
-  <li>MealDB API Project</li>
+  <li>Email: <a href="mailto:sivamdby99@gmail.com">sivamdby99@gmail.com</a></li>
+  <li>Phone: +91-9973032734</li>
+  <li>Portfolio: <a href="https://shivamkrdubey.github.io/My-Portfolio/" target="_blank">My Portfolio</a></li>
 </ul>
 
 ---
 
-## 🎓 Education
-
-<b>Dr. Shyama Prasad Mukherjee University, Ranchi</b> (2022–2025)  
-B.Sc. Computer Application | CGPA: 8.62/10  
-
-<b>Intermediate (JAC)</b> – 65.4%  
-<b>Matric (JAC)</b> – 80.2%
-
----
-
-## 🏆 Achievements
-<ul>
-  <li>Led class team in multiple sports competitions</li>
-  <li>Strong teamwork and leadership skills</li>
-</ul>
-
----
-
-## 🎯 Interests
-<p>Web Development | Learning New Technologies | Cricket | Tech Blogs</p>
-
----
-
-## 📫 Contact
-<p>
-📧 Email: sivamdby99@gmail.com <br>
-📞 Phone: +91-9973032734 <br>
-🌐 Portfolio: https://shivamkrdubey.github.io/My-Portfolio/
+<!-- Social Links -->
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SHIVAMKRDUBEY" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-<p>I love building real-world projects more than just learning theory 🚀</p>
