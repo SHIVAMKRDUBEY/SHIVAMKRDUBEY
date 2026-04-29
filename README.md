@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shivam-kumar-dubey-1410a71ba/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivamkrdubey/?lipi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
   </a>
 </p>
